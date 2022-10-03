@@ -1,4 +1,3 @@
-### Hi, I'm Alonso 🐱‍🏍
 
 ![frontend](https://user-images.githubusercontent.com/111699274/193609795-f9c45b9f-2d74-4ea4-be42-9ff6840cffb0.png)
 
